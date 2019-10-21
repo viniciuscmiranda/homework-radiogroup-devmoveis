@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Calcular dieta</string>
+    <string name="_1">Você diria que se alimenta bem?</string>
+    <string name="_1A">Muito! Já que faço academia, adoro comer coisas leves de três em três horas e controlar as calorias.</string>
+    <string name="_1B">Ah… Como muito, mas, na maioria das vezes, são sempre besteiras.</string>
+    <string name="_1C">Acho que sim. Meu prato ê sempre bem colorido, apesar de não resistir a um docinho depois do almoço.</string>
+    <string name="_1D">Não. Só gosto de macarrão, batata frita… Coisas que me sustentam!</string>
+    <string name="_2">Vai rolar um casamento com uma festança bapho logo em seguida. Você é do tipo que: </string>
+    <string name="_2A">Não come nada o dia inteiro para aproveitar bastante a festa.</string>
+    <string name="_2B">Já se prepara para atacar a mesinha de doces! Rs</string>
+    <string name="_2C">Faz uma boquinha antes para não exagerar na hora, né?</string>
+    <string name="_2D">Come um pouquinho de tudo, mas não passa dos limites.</string>
+    <string name="_3">Quantas vezes por semana você come chocolate?</string>
+    <string name="_3A">Uma vez por dia. Não tem como!</string>
+    <string name="_3B">Por semana? Como mais de uma vez por dia. #fato</string>
+    <string name="_3C">Um dia sim, um dia não. Depende da minha vontade.</string>
+    <string name="_3D">Só aos fins de semana.</string>
+    <string name="_4">Rolou aquele imprevisto e você vai chegar mais tarde em casa. E agora?</string>
+    <string name="_4A">Compra um salgado em alguma lanchonete mesmo e compensa no dia seguinte.</string>
+    <string name="_4B">Dá um jeitinho de comer algo mais leve para dar aquela forrada.</string>
+    <string name="_4C">Não come nada e espera chegar em casa para devorar o que tiver pela frente: pão, miojo, bolacha…</string>
+    <string name="_4D">Corre para um fast-food e pede um lanche bem caprichado.</string>
+    <string name="_5">Qual é o melhor passeio para fazer com a galera reunida?</string>
+    <string name="_5A">Ir para a balada. Afinal, tá não tem comida e você não cai na tentação.</string>
+    <string name="_5B">Sair para jantar com as bests. Vocês sempre exageram um pouquinho, mas compensam depois.</string>
+    <string name="_5C">Ser convidada para uma festinha infantil do irmão da amiga, com muita coxinha, minipizza…</string>
+    <string name="_5D">Passear no parque e aproveitar para tomar uma água de coco, bem gelatina, muito bom!</string>
+    <string name="button">Calcular</string>
+    <string name="_6">Como é o seu dia a dia?</string>
+    <string name="_6A">Passo bastante tempo sentada, mas cuido bastante da alimentação.</string>
+    <string name="_6B">Sou completamente sedentária: da escola para o PC, do PC para a escola.</string>
+    <string name="_6C">Não curto academia, mas procuro me exercitar de outras formas, como andando de skate, correndo…</string>
+    <string name="_6D">Marco ponto na academia, à tarde, de manhã… Quando tenho um tempinho livre, aproveito para malhar.</string>
+    <string name="_7">Se você dividir o seu peso pela sua altura ao quadrado, o resultado de seu IMC (Índice de Massa Corpórea) é:</string>
+    <string name="_7A">Entre 19 e 25.</string>
+    <string name="_7B">Entre 25 e 30.</string>
+    <string name="_7C">Acima de 30.</string>
+    <string name="_7D">Abaixo de 18.</string>
+    <string name="_8">O que você sente quando se olhar no espelho?</string>
+    <string name="_8A">Não fica 100% satisfeita, mas está feliz com o que vê reftetido.</string>
+    <string name="_8B">Não sente nada, pois evita se olhar para não ficar mal depois.</string>
+    <string name="_8C">Não sente nada, pois evita se olhar para não ficar mal depois.</string>
+    <string name="_8D">Orgulho! Ver o seu reflexo é uma das coisas que você mais curte!</string>
+    <string name="_9">Sua mãe precisa Insistir para você comer mais verduras e legumes?</string>
+    <string name="_9A">Ela não liga muito para isso.</string>
+    <string name="_9B">E o contrário! Ela tenta fazer com que eu saía da linha às vezes! Rs</string>
+    <string name="_9C">Sempre! Ela diz que sou ruim para comer desde pequena.</string>
+    <string name="_9D">De vez em quando. Mas, como ela sabe que como verdura durante a semana, então está tudo certo.</string>
+    <string name="_10">Complete a frase: “À noite, eu…”:</string>
+    <string name="_10A">Sinto sempre muita fome!</string>
+    <string name="_10B">Gosto de comer algo mais leve, como uma sopa ou uma saladinha.</string>
+    <string name="_10C">Faço um lanchinho de pão com frios e está ótimo!</string>
+    <string name="_10D">Não janto. Simples assim.</string>
+
+    <string-array name="titles">
+        <item>Só nas Calorias</item>
+        <item>#partiumalhar</item>
+        <item>Viva a genética</item>
+        <item>Garota Fitness</item>
+    </string-array>
+
+    <string-array name="contents">
+        <item>Ninguém vive só de pizza e brigadeiro né? Claro
+        que tudo isso é uma delícia, mas nosso corpo
+        precisa de um pouco de tudo: carboidratos,
+        proteínas, fibras… Consultar um nutricionista
+        pose ser uma ótima maneira de começar.</item>
+
+        <item>Cuidar da alimentação é o primeiro passo para
+        uma vida saudável. Lembre: Você é aquilo que
+        você come. Fazer algum exercício físico também
+        ajuda a manter o peso em equilíbrio. Pode ser
+        jazz, natação, vôlei…
+        Bora se mexer?</item>
+
+        <item>Às vezes, rolam algumas encanações com o
+        corpo, certo? Mas, mesmo assim, você sabe que
+        é bonita do seu jeito e não precisa fazer muita
+        coisa para continuar de bem com a balança. Só
+        fique esperta para também manter a saúde em
+        dia!</item>
+
+        <item>Comer frutas nos intervalos das refeições, se
+        exercitar três vezes por semana e não jantar
+        coisa muito pesadas: é assim que você leva a
+        vida. Parabéns pelo foco! Só que não precisa
+        virar a doida da dieta, combinado? Tudo em
+        exagero acaba sendo prejudicial a saúde.</item>
+    </string-array>
+</resources>
